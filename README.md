@@ -1,5 +1,8 @@
 # Project: 3D Volume Estimation by leveraging instance seegmentation results on 2D images
 
+<img src="img/sceleton_middle_line.png" alt="Alt text" style="width:50%;">
+<img src="img/vol_est_circles.png" alt="Alt text" style="width:50%;">
+
 **Which steps are performed?**:
 1. **Instance Segmentation**:
     * Instance segmentation is performed on 2D images using a pre-trained YOLOv8seg model.
@@ -27,6 +30,3 @@ Users can set parameters for volume estimation, such as
 * and the number of orthogonal lines
 
 Presents a skeletal image with orthogonal lines and a 3D volume visualization.
-
-<img src="img/sceleton_middle_line.png" alt="Alt text" style="width:50%;">
-<img src="img/vol_est_circles.png" alt="Alt text" style="width:50%;">
