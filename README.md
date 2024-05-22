@@ -1,4 +1,4 @@
-# Project: 3D Volume Estimation by leveraging instance seegmentation results on 2D images
+# Project: 3D Volume Estimation by leveraging instance segmentation results on 2D images
 
 <img src="img/sceleton_middle_line.png" alt="Alt text" style="width:50%;">
 3D Circles where each has the diameter of an orthogonal line at a specific position on the middle line of the object.
